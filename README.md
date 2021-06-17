@@ -1,6 +1,6 @@
 
 <img src="https://github.com/tn64/MechaCar_Statistical_Analysis/blob/main/Resources/pexels-jan-kop%C5%99iva-3399938.png">
-Photo by Jan Kopřiva from Pexels
+<!-- Photo by Jan Kopřiva from Pexels -->
 
 # MechaCar Analysis
 In the scenario for this module, we are to perform various analyses for a new automobile Manufacturing company. Specifically, the analyses we are tasked with performing are:
